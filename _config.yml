@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Haihan Sun"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Haihan Sun"
 description              : &description "Researcher"
