@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Research on BSA"
-    url: "https://haihan-sun.github.io/_pages/BSA.html" 
+    url: "https://haihan-sun.github.io/BSA.html" 
   
   - title: "Research on GPR"
-    url: "https://haihan-sun.github.io/_pages/GPR.html"
+    url: "https://haihan-sun.github.io/GPR.html"
 
   - title: "Talks"
     url: /talks/    
