@@ -14,9 +14,8 @@ I am a Research Fellow at Nanyang Technological University, Singapore. I obtaine
 News
 ------
 2022/12  One paper accepted by IEEE Transactions on Instrumentation and Measurement. <br>
-2022/12  One paper accepted by IEEE Transactions on Instrumentation and Measurement. <br>
-2022/11  One paper received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.  <br>
 2022/11  One paper accepted by Construction and Building Materials. <br>
+2022/11  One paper received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.  <br>
 2022/11  One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
 2022/07  One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
 2022/05  One paper accepted by IEEE Transactions on Antennas and Propagation.  <br>
