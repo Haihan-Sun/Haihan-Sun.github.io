@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research fellow at Nanyang Technological University, Singapore. I obtained the bachelor’s degree in Electronic Information Engineering at Beijing University of Posts and Telecommunications, Beijing, China, in 2015, and the Ph.D. degree in Engineering at the University of Technology Sydney, Australia, in 2019. My research interests include <a href="BSA.html"  style="color:MediumOrchid;">Base Station Antenna</a> and <a href="GPR.html"  style="color:MediumOrchid;"> Ground Penetrating Radar</a>. 
+I am currently a Research Fellow at Nanyang Technological University, Singapore. I obtained the bachelor’s degree in Electronic Information Engineering at Beijing University of Posts and Telecommunications, Beijing, China, in 2015, and the Ph.D. degree in Engineering at the University of Technology Sydney, Australia, in 2019. My research interests include <a href="BSA.html"  style="color:MediumOrchid;">Base Station Antenna</a> and <a href="GPR.html"  style="color:MediumOrchid;"> Ground Penetrating Radar</a>. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+News
+------
+2022/12 One paper accepted by IEEE Transactions on Instrumentation and Measurement. 
+2022/11 One paper accepted by Construction and Building Materials. 
+2022/11 One paper accepted by IEEE Geoscience and Remote Sensing Letters.
+2022/07 One paper accepted by IEEE Geoscience and Remote Sensing Letters.
+2022/05 One paper accepted by IEEE Transactions on Antennas and Propagation.
+2022/05 One paper accepted by IEEE Transactions on Geoscience and Remote Sensing.
+2022/05 One paper accepted by IEEE Transactions on Image Processing.
+2022/01 One paper accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 
 Site-wide configuration
 ------
