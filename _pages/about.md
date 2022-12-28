@@ -12,13 +12,13 @@ I am currently a Research Fellow at Nanyang Technological University, Singapore.
 
 News
 ------
-2022/12 One paper accepted by IEEE Transactions on Instrumentation and Measurement. 
-2022/11 One paper accepted by Construction and Building Materials. 
-2022/11 One paper accepted by IEEE Geoscience and Remote Sensing Letters.
-2022/07 One paper accepted by IEEE Geoscience and Remote Sensing Letters.
-2022/05 One paper accepted by IEEE Transactions on Antennas and Propagation.
-2022/05 One paper accepted by IEEE Transactions on Geoscience and Remote Sensing.
-2022/05 One paper accepted by IEEE Transactions on Image Processing.
+2022/12 One paper accepted by IEEE Transactions on Instrumentation and Measurement. <br>
+2022/11 One paper accepted by Construction and Building Materials. <br>
+2022/11 One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
+2022/07 One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
+2022/05 One paper accepted by IEEE Transactions on Antennas and Propagation.  <br>
+2022/05 One paper accepted by IEEE Transactions on Geoscience and Remote Sensing.  <br>
+2022/05 One paper accepted by IEEE Transactions on Image Processing.  <br>
 2022/01 One paper accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 
 Site-wide configuration
