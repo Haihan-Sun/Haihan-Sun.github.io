@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +8,7 @@ redirect_from:
 ---
 About
 ------
-I am a Research Fellow at Nanyang Technological University, Singapore. I obtained the bachelor’s degree in Electronic Information Engineering at Beijing University of Posts and Telecommunications, Beijing, China, in 2015, and the Ph.D. degree in Engineering at the University of Technology Sydney, Australia, in 2019. My research interests include <a href="BSA.html"  style="color:MediumOrchid;">Base Station Antenna</a> and <a href="GPR.html"  style="color:MediumOrchid;"> Ground Penetrating Radar</a>. 
+I am a Research Fellow at Nanyang Technological University, Singapore. I obtained my B. Eng in Electronic and Information Engineering from Beijing University of Posts and Telecommunications in 2015, and the Ph.D. in Engineering from the University of Technology Sydney in 2019. My research interests include <a href="BSA.html"  style="color:MediumOrchid;">Base Station Antenna</a> and <a href="GPR.html"  style="color:MediumOrchid;"> Ground Penetrating Radar</a>. 
 
 News
 ------
