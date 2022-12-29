@@ -5,6 +5,7 @@ table.imgtable, table.imgtable td {
 }
 
 img {
-  max-width: 350;
+  border: none;
+  width: 350;
   height: auto;
 }
