@@ -3,3 +3,8 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+img {
+  max-width: 350;
+  height: auto;
+}
