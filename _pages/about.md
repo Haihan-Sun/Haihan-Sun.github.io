@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-I am a Research Fellow at Nanyang Technological University, Singapore. I obtained my B. Eng in Electronic and Information Engineering from Beijing University of Posts and Telecommunications in 2015, and the Ph.D. in Engineering from the University of Technology Sydney in 2019. My research interests include <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F">Base Station Antenna</a> and <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> Ground Penetrating Radar</a>. 
+I am a Research Fellow at Nanyang Technological University, and an incoming Senior Lecturer at the University of Tasmania in February 2023. I obtained my B. Eng in Electronic and Information Engineering from Beijing University of Posts and Telecommunications in 2015, and the Ph.D. in Engineering from the University of Technology Sydney in 2019. My research interests include <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F">Base Station Antenna</a> and <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> Ground Penetrating Radar</a>. 
 
 News
 ------
