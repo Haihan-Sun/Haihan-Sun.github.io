@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-I am a Research Fellow at Nanyang Technological University. I obtained my B. Eng in Electronic and Information Engineering from Beijing University of Posts and Telecommunications in 2015, and the Ph.D. in Engineering from the University of Technology Sydney in 2019. My research interests include <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F">Base Station Antenna</a> and <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> Ground Penetrating Radar</a>. 
+Hi! I'm Haihan Sun, a postdoctoral research fellow at Nanyang Technological University, Singapore. I received my B. Eng from Beijing University of Posts and Telecommunications in 2015, and Ph.D. from the University of Technology Sydney in 2019. My research interests include <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F">Base Station Antenna</a> and <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> Ground Penetrating Radar</a>. 
 
 News
 ------
