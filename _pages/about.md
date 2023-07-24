@@ -13,7 +13,7 @@ Hi! I'm Haihan Sun, a postdoctoral research fellow at Nanyang Technological Univ
 News
 ------
 2023/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Geoscience and Remote Sensing. <br>
-2022/12  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Instrumentation and Measurement. <br>
+2023/01  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Instrumentation and Measurement. <br>
 2022/11  &nbsp;&nbsp;One paper accepted by Construction and Building Materials. <br>
 2022/11  &nbsp;&nbsp;One paper received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.  <br>
 2022/11  &nbsp;&nbsp;One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
