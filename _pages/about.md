@@ -26,6 +26,7 @@ News
 Service
 ------
 <p><b>Conference Session Chair</b> <br>
+2023  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation (AP-S)<br>
 2022  &nbsp;&nbsp;International Symposium on Antennas and Propagation (ISAP) <br>
 2021  &nbsp;&nbsp;International Symposium on Antennas and Propagation (ISAP) <br>
 2021  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation (AP-S)<br>
