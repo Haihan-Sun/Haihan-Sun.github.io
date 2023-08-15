@@ -13,6 +13,7 @@ Hi! I'm Haihan Sun, an incoming Assistant Professor at the University of Wiscons
 
 News
 ------
+2023/08  &nbsp;&nbsp;One paper accepted by Cement and Concrete Composites. <br>
 2023/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Geoscience and Remote Sensing. <br>
 2023/01  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Instrumentation and Measurement. <br>
 2022/11  &nbsp;&nbsp;One paper accepted by Construction and Building Materials. <br>
@@ -22,7 +23,6 @@ News
 2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Antennas and Propagation.  <br>
 2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Geoscience and Remote Sensing.  <br>
 2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Image Processing.  <br>
-2022/01  &nbsp;&nbsp;One paper accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.
 
 Service
 ------
