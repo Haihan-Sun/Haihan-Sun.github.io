@@ -22,7 +22,6 @@ News
 2022/07  &nbsp;&nbsp;One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
 2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Antennas and Propagation.  <br>
 2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Geoscience and Remote Sensing.  <br>
-2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Image Processing.  <br>
 
 Service
 ------
