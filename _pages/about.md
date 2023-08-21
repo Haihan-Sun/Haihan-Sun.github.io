@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-Hi! I'm Haihan Sun, an incoming Assistant Professor at the University of Wisconsin-Madison. I received my B.E. degree from Beijing University of Posts and Telecommunications in 2015, and the Ph.D. degree from the University of Technology Sydney in 2019. I was a Postdoctoral Research Fellow at Nanyang Technological University from 2019 to 2023. My research interests include <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> Ground Penetrating Radar</a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F">Base Station Antenna</a>.
+Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madison. I received my B.E. degree from Beijing University of Posts and Telecommunications in 2015, and the Ph.D. degree from the University of Technology Sydney in 2019. I was a Postdoctoral Research Fellow at Nanyang Technological University from 2019 to 2023. My research interests include <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> Ground Penetrating Radar</a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F">Base Station Antenna</a>.
 
 
 News
