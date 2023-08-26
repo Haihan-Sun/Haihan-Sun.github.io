@@ -16,11 +16,9 @@ I am seeking undergraduate and graduate students who share a passion for advanci
 News
 ------
 2023/08  &nbsp;&nbsp;Our journal paper "Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method" is accepted by Cement and Concrete Composites. <br>
-2023/08  &nbsp;&nbsp;<mark>I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</mark>
-2023/07  &nbsp;&nbsp;<mark>I chaired the session “Localization and Estimation Techniques in Sensing and Communications" at 2023 IEEE AP-S/URSI.
-2023/07  &nbsp;&nbsp;<mark>I presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete" at 2023 IEEE AP-S/URSI.
-2023/07  &nbsp;&nbsp;<mark>I gave an invited talk on “Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective" at 2023 IEEE AP-S/URSI.
-2023/07  &nbsp;&nbsp;<mark>I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars" at the 12th International Workshop on Advanced Ground Penetrating Radar.
+2023/08  &nbsp;&nbsp;<mark>I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</mark>  <br>
+2023/07  &nbsp;&nbsp;<mark>I had the honor of chairing the session “Localization and Estimation Techniques in Sensing and Communications" at the 2023 IEEE AP-S/URSI conference. At the same conference, I delivered an invited talk "Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective", and also presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete".<br>
+2023/07  &nbsp;&nbsp;I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars" at the 12th International Workshop on Advanced Ground Penetrating Radar.  <br>
 2023/05  &nbsp;&nbsp;Our journal paper "3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion" is accepted by IEEE Transactions on Geoscience and Remote Sensing! <br>
 2023/01  &nbsp;&nbsp;Our journal paper "Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar" is accepted by IEEE Transactions on Instrumentation and Measurement. <br>
 2022/11  &nbsp;&nbsp;Our journal paper "Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array" is accepted by Construction and Building Materials. <br>
