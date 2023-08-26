@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
 .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
   padding:10px 5px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tdlr{background-color:#ffffff;border-color:#ffffff;font-size:12px;text-align:left;vertical-align:top}
+.tg .tg-9ouc{background-color:#ffffff;border-color:#ffffff;font-size:15px;text-align:left;vertical-align:top}
 </style>
 
 <br>
@@ -26,8 +26,8 @@ News
 <table class="tg">
 <tbody>
   <tr>
-    <th class="tg-tdlr">2023/08</th>
-    <th class="tg-tdlr">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</th>
+    <th class="tg-tdlr">2023/08</td>
+    <th class="tg-tdlr">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</td>
   </tr>
   <tr>
     <td class="tg-tdlr">2023/08</td>
