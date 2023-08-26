@@ -6,6 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 
 <br>
 Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madison. My research interests lie in applied electromagnetics, with a particular emphasis on two main areas: <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> intelligent ground-penetrating radar technologies for subsurface sensing </a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F"> antenna systems for wireless communications </a>. <br>
@@ -15,8 +27,19 @@ I am seeking undergraduate and graduate students who share a passion for advanci
 
 News
 ------
+| 2023/08 | Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.         |                                                                                                                                                                                                                                                                                                     
+| 2023/08 | I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)                                                                                                                                                                                                                                                                                                                                                       |
+| 2023/07 | I had the honor of chairing the session “Localization and Estimation Techniques in Sensing and Communications” at the 2023 IEEE AP-S/URSI conference. At the same conference, I delivered an invited talk “Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective”, and also presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete”. |
+| 2023/07 | I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars” at the 12th International Workshop on Advanced Ground Penetrating Radar.                                                                                                                                                                                                                                                                                                   |
+| 2023/05 | Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” is accepted by IEEE Transactions on Geoscience and Remote Sensing!                                                                                                                                                                                                                                                                                                                  |
+| 2023/01 | Our journal paper “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar” is accepted by IEEE Transactions on Instrumentation and Measurement.                                                                                                                                                                                                                                                                                       |
+| 2022/11 | Our journal paper “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array” is accepted by Construction and Building Materials.                                                                                                                                                                                                                                                                                                                         |
+| 2022/11 | Our conference paper “Clutter Removal in Ground-Penetrating Radar Images Using Deep Neural Networks” received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.                                                                                                                                                                                                                                  |
+| 2022/07 | Our journal paper “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects” is accepted by IEEE Geoscience and Remote Sensing Letters.                                                                                                                                                                                                                                                                                                               |
+| 2022/05 | Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” is accepted by IEEE Transactions on Antennas and Propagation.                                                                                                                                                                                                                                                                                           |
+| 2022/05 | Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” is accepted by IEEE Transactions on Geoscience and Remote Sensing.                                                                                                                                                                                                                                                                                                                       |
 2023/08  &nbsp;&nbsp;Our journal paper "Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method" is accepted by Cement and Concrete Composites. <br>
-2023/08  &nbsp;&nbsp;<b>I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</b>  <br>
+2023/08  &nbsp;&nbsp;I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</b>  <br>
 2023/07  &nbsp;&nbsp;I had the honor of chairing the session “Localization and Estimation Techniques in Sensing and Communications" at the 2023 IEEE AP-S/URSI conference. At the same conference, I delivered an invited talk "Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective", and also presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete".<br>
 2023/07  &nbsp;&nbsp;I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars" at the 12th International Workshop on Advanced Ground Penetrating Radar.  <br>
 2023/05  &nbsp;&nbsp;Our journal paper "3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion" is accepted by IEEE Transactions on Geoscience and Remote Sensing! <br>
