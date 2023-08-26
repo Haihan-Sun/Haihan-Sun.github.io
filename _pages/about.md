@@ -10,7 +10,7 @@ redirect_from:
 <br>
 Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madison. My research interests lie in applied electromagnetics, with a particular emphasis on two main areas: <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> intelligent ground-penetrating radar technologies for subsurface sensing </a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F"> antenna systems for wireless communications </a>. <br>
 
-I am seeking undergraduate and graduate students who share a passion for advancing intelligent electromagnetic sensing technologies. If you are interested and would like to explore further, please contact me at haihan.sun@wisc.edu.
+I am seeking undergraduate and graduate students who share a passion for advancing intelligent electromagnetic sensing and non-destructive testing technologies. If you are interested and would like to explore further, please contact me at haihan.sun@wisc.edu.
 
 
 News
