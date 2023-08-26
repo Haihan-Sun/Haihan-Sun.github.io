@@ -30,25 +30,25 @@ News
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8jgo">2023/08</th>
+    <th class="tg-zv4m">2023/08</th>
     <th class="tg-zv4m">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-8jgo">2023/08</td>
+    <td class="tg-zv4m">2023/08</td>
     <td class="tg-zv4m">I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</td>
   </tr>
   <tr>
-    <td class="tg-8jgo">2023/07</td>
+    <td class="tg-zv4m">2023/07</td>
     <td class="tg-zv4m">I had the honor of chairing the session “Localization and Estimation Techniques in Sensing and Communications” at the 2023 IEEE AP-S/URSI conference. At the same conference, I delivered an invited talk “Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective”, and also presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete”.</td>
   </tr>
   <tr>
-    <td class="tg-8jgo">2023/07</td>
+    <td class="tg-zv4m">2023/07</td>
     <td class="tg-zv4m">I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars” at the 12th International Workshop on Advanced Ground Penetrating Radar.</td>
   </tr>
   <tr>
-    <td class="tg-8jgo">2023/05</td>
+    <td class="tg-zv4m">2023/05</td>
     <td class="tg-zv4m">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” is accepted by IEEE Transactions on Geoscience and Remote Sensing!</td>
   </tr>
   <tr>
