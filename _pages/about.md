@@ -27,6 +27,65 @@ I am seeking undergraduate and graduate students who share a passion for advanci
 
 News
 ------
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8jgo">2023/08</th>
+    <th class="tg-zv4m">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-8jgo">2023/08</td>
+    <td class="tg-zv4m">I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo">2023/07</td>
+    <td class="tg-zv4m">I had the honor of chairing the session “Localization and Estimation Techniques in Sensing and Communications” at the 2023 IEEE AP-S/URSI conference. At the same conference, I delivered an invited talk “Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective”, and also presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete”.</td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo">2023/07</td>
+    <td class="tg-zv4m">I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars” at the 12th International Workshop on Advanced Ground Penetrating Radar.</td>
+  </tr>
+  <tr>
+    <td class="tg-8jgo">2023/05</td>
+    <td class="tg-zv4m">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” is accepted by IEEE Transactions on Geoscience and Remote Sensing!</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">2023/01</td>
+    <td class="tg-zv4m">Our journal paper “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar” is accepted by IEEE Transactions on Instrumentation and Measurement.</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">2022/11</td>
+    <td class="tg-zv4m">Our journal paper “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array” is accepted by Construction and Building Materials.</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">2022/11</td>
+    <td class="tg-zv4m">Our conference paper “Clutter Removal in Ground-Penetrating Radar Images Using Deep Neural Networks” received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">2022/07</td>
+    <td class="tg-zv4m">Our journal paper “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects” is accepted by IEEE Geoscience and Remote Sensing Letters.</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">2022/05</td>
+    <td class="tg-zv4m">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” is accepted by IEEE Transactions on Antennas and Propagation.</td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m">2022/05</td>
+    <td class="tg-zv4m">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” is accepted by IEEE Transactions on Geoscience and Remote Sensing.</td>
+  </tr>
+</tbody>
+</table>
 
 2023/08  &nbsp;&nbsp;Our journal paper "Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method" is accepted by Cement and Concrete Composites. <br>
 2023/08  &nbsp;&nbsp;I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)  <br>
