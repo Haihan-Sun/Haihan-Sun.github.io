@@ -8,14 +8,12 @@ redirect_from:
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-zv4m{border-color:#ffffff;text-align:left;vertical-align:top}
-.tg .tg-8jgo{border-color:#ffffff;text-align:center;vertical-align:top}
-</style> 
-
+.tg .tg-tdlr{background-color:#ffffff;border-color:#ffffff;font-size:12px;text-align:left;vertical-align:top}
+</style>
 
 <br>
 Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madison. My research interests lie in applied electromagnetics, with a particular emphasis on two main areas: <a href="https://haihan-sun.github.io/GPR/"  style="color:#35866F"> intelligent ground-penetrating radar technologies for subsurface sensing </a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#35866F"> antenna systems for wireless communications </a>. <br>
@@ -29,13 +27,13 @@ News
 <thead>
   <tr>
     <th class="tg-oe15">2023/08</th>
-    <th class="tg-oe15">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</th>
+    <th class="tg-oe15">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites!</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-oe15">2023/08</td>
-    <td class="tg-oe15">I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</td>
+    <td class="tg-oe15">I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor &#128522 </td>
   </tr>
   <tr>
     <td class="tg-oe15">2023/07</td>
@@ -51,11 +49,11 @@ News
   </tr>
   <tr>
     <td class="tg-oe15">2023/01</td>
-    <td class="tg-oe15">Our journal paper “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar” is accepted by IEEE Transactions on Instrumentation and Measurement.</td>
+    <td class="tg-oe15">Our journal paper “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar” is accepted by IEEE Transactions on Instrumentation and Measurement!</td>
   </tr>
   <tr>
     <td class="tg-oe15">2022/11</td>
-    <td class="tg-oe15">Our journal paper “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array” is accepted by Construction and Building Materials.</td>
+    <td class="tg-oe15">Our journal paper “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array” is accepted by Construction and Building Materials!</td>
   </tr>
   <tr>
     <td class="tg-oe15">2022/11</td>
@@ -63,15 +61,15 @@ News
   </tr>
   <tr>
     <td class="tg-oe15">2022/07</td>
-    <td class="tg-oe15">Our journal paper “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects” is accepted by IEEE Geoscience and Remote Sensing Letters.</td>
+    <td class="tg-oe15">Our journal paper “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects” is accepted by IEEE Geoscience and Remote Sensing Letters!</td>
   </tr>
   <tr>
     <td class="tg-oe15">2022/05</td>
-    <td class="tg-oe15">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” is accepted by IEEE Transactions on Antennas and Propagation.</td>
+    <td class="tg-oe15">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” is accepted by IEEE Transactions on Antennas and Propagation!</td>
   </tr>
   <tr>
     <td class="tg-oe15">2022/05</td>
-    <td class="tg-oe15">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” is accepted by IEEE Transactions on Geoscience and Remote Sensing.</td>
+    <td class="tg-oe15">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” is accepted by IEEE Transactions on Geoscience and Remote Sensing!</td>
   </tr>
 </tbody>
 </table>
