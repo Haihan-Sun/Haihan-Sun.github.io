@@ -15,23 +15,27 @@ I am seeking undergraduate and graduate students who share a passion for advanci
 
 News
 ------
-2023/08  &nbsp;&nbsp;One paper accepted by Cement and Concrete Composites. <br>
-2023/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Geoscience and Remote Sensing. <br>
-2023/01  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Instrumentation and Measurement. <br>
-2022/11  &nbsp;&nbsp;One paper accepted by Construction and Building Materials. <br>
-2022/11  &nbsp;&nbsp;One paper received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.  <br>
-2022/11  &nbsp;&nbsp;One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
-2022/07  &nbsp;&nbsp;One paper accepted by IEEE Geoscience and Remote Sensing Letters. <br>
-2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Antennas and Propagation.  <br>
-2022/05  &nbsp;&nbsp;One paper accepted by IEEE Transactions on Geoscience and Remote Sensing.  <br>
+2023/08  &nbsp;&nbsp;Our journal paper "Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method" is accepted by Cement and Concrete Composites. <br>
+2023/08  &nbsp;&nbsp;<mark>I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</mark>
+2023/07  &nbsp;&nbsp;<mark>I chaired the session “Localization and Estimation Techniques in Sensing and Communications" at 2023 IEEE AP-S/URSI.
+2023/07  &nbsp;&nbsp;<mark>I presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete" at 2023 IEEE AP-S/URSI.
+2023/07  &nbsp;&nbsp;<mark>I gave an invited talk on “Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective" at 2023 IEEE AP-S/URSI.
+2023/07  &nbsp;&nbsp;<mark>I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars" at the 12th International Workshop on Advanced Ground Penetrating Radar.
+2023/05  &nbsp;&nbsp;Our journal paper "3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion" is accepted by IEEE Transactions on Geoscience and Remote Sensing! <br>
+2023/01  &nbsp;&nbsp;Our journal paper "Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar" is accepted by IEEE Transactions on Instrumentation and Measurement. <br>
+2022/11  &nbsp;&nbsp;Our journal paper "Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array" is accepted by Construction and Building Materials. <br>
+2022/11  &nbsp;&nbsp;Our conference paper "Clutter Removal in Ground-Penetrating Radar Images Using Deep Neural Networks" received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.  <br>
+2022/07  &nbsp;&nbsp;Our journal paper "A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects" is accepted by IEEE Geoscience and Remote Sensing Letters. <br>
+2022/05  &nbsp;&nbsp;Our journal paper "DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions" is accepted by IEEE Transactions on Antennas and Propagation.  <br>
+2022/05  &nbsp;&nbsp;Our journal paper "Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data" is accepted by IEEE Transactions on Geoscience and Remote Sensing.  <br>
 
 Service
 ------
 <p><b>Conference Session Chair</b> <br>
-2023  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation (AP-S)<br>
+2023  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)<br>
 2022  &nbsp;&nbsp;International Symposium on Antennas and Propagation (ISAP) <br>
 2021  &nbsp;&nbsp;International Symposium on Antennas and Propagation (ISAP) <br>
-2021  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation (AP-S)<br>
+2021  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)<br>
 </p>
                                 
 <p><b>Reviewer</b> <br>
