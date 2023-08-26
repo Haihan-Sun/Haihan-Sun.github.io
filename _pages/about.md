@@ -24,6 +24,8 @@ I am seeking undergraduate and graduate students who share a passion for advanci
 News
 ------
 <table class="tg">
+<thead>
+</thead>
 <tbody>
   <tr>
     <th class="tg-tdlr">2023/08</td>
@@ -78,7 +80,8 @@ Service
 <p><b>Conference Session Chair</b> <br>
 
 <table class="tg">
-
+<thead>
+</thead>
 <tbody>
   <tr>
     <td class="tg-tdlr">2023</td>
