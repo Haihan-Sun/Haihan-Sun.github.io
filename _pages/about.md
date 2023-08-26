@@ -24,12 +24,10 @@ I am seeking undergraduate and graduate students who share a passion for advanci
 News
 ------
 <table class="tg">
-<thead>
-</thead>
 <tbody>
   <tr>
-    <th class="tg-tdlr">2023/08</td>
-    <th class="tg-tdlr">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</td>
+    <td class="tg-tdlr">2023/08</td>
+    <td class="tg-tdlr">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</td>
   </tr>
   <tr>
     <td class="tg-tdlr">2023/08</td>
@@ -80,8 +78,6 @@ Service
 <p><b>Conference Session Chair</b> <br>
 
 <table class="tg">
-<thead>
-</thead>
 <tbody>
   <tr>
     <td class="tg-tdlr">2023</td>
