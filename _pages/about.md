@@ -96,14 +96,6 @@ Service
     <td class="tg-tdlr">2021</td>
     <td class="tg-tdlr">IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)</td>
   </tr>
-  <tr>
-    <td class="tg-tdlr">2022/05</td>
-    <td class="tg-tdlr">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” is accepted by IEEE Transactions on Antennas and Propagation.</td>
-  </tr>
-  <tr>
-    <td class="tg-tdlr">2022/05</td>
-    <td class="tg-tdlr">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” is accepted by IEEE Transactions on Geoscience and Remote Sensing.</td>
-  </tr>
 </tbody>
 </table>
                
