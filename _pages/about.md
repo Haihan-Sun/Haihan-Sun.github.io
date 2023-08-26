@@ -23,15 +23,12 @@ I am seeking undergraduate and graduate students who share a passion for advanci
 
 News
 ------
-
 <table class="tg">
-<thead>
+<tbody>
   <tr>
     <th class="tg-tdlr">2023/08</th>
     <th class="tg-tdlr">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</th>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-tdlr">2023/08</td>
     <td class="tg-tdlr">I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</td>
@@ -79,12 +76,37 @@ News
 Service
 ------
 <p><b>Conference Session Chair</b> <br>
-2023  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)<br>
-2022  &nbsp;&nbsp;International Symposium on Antennas and Propagation (ISAP) <br>
-2021  &nbsp;&nbsp;International Symposium on Antennas and Propagation (ISAP) <br>
-2021  &nbsp;&nbsp;IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)<br>
-</p>
-                                
+
+<table class="tg">
+
+<tbody>
+  <tr>
+    <td class="tg-tdlr">2023</td>
+    <td class="tg-tdlr">IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)</td>
+  </tr>
+  <tr>
+    <td class="tg-tdlr">2022</td>
+    <td class="tg-tdlr">International Symposium on Antennas and Propagation (ISAP) </td>
+  </tr>
+  <tr>
+    <td class="tg-tdlr">2021</td>
+    <td class="tg-tdlr">International Symposium on Antennas and Propagation (ISAP)</td>
+  </tr>
+  <tr>
+    <td class="tg-tdlr">2021</td>
+    <td class="tg-tdlr">IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting (AP-S/URSI)</td>
+  </tr>
+  <tr>
+    <td class="tg-tdlr">2022/05</td>
+    <td class="tg-tdlr">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” is accepted by IEEE Transactions on Antennas and Propagation.</td>
+  </tr>
+  <tr>
+    <td class="tg-tdlr">2022/05</td>
+    <td class="tg-tdlr">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” is accepted by IEEE Transactions on Geoscience and Remote Sensing.</td>
+  </tr>
+</tbody>
+</table>
+               
 <p><b>Reviewer</b> <br>
 IEEE Transactions on Antennas and Propagation <br>
 IEEE Transactions on Geoscience and Remote Sensing <br>
