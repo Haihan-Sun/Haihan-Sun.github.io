@@ -43,7 +43,7 @@ News
   </tr>
   <tr>
     <td class="tg-ko0z">2023/05</td>
-    <td class="tg-ko0z">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” is accepted by IEEE Transactions on Geoscience and Remote Sensing!</td>
+    <td class="tg-ko0z">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” is accepted by IEEE Transactions on Geoscience and Remote Sensing.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/01</td>
