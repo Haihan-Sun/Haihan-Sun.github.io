@@ -21,7 +21,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 I am seeking undergraduate and graduate students who share a passion for advancing intelligent electromagnetic sensing and non-destructive testing technologies. If you are interested and would like to explore further, please contact me at haihan.sun@wisc.edu.
 
 
-News
+<span style="color:#C5050C">News</span>
 ------
 <table class="tg">
 <tbody>
@@ -73,7 +73,7 @@ News
 </table>
 
 
-Service
+<span style="color:#C5050C">Service</span>
 ------
 <p><b>Conference Session Chair</b> <br>
 
