@@ -12,7 +12,7 @@ redirect_from:
   padding:10px 5px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ko0z{background-color:#ffffff;border-color:#ffffff;font-size:14px;text-align:left;vertical-align:top}
+.tg .tg-ko0z{background-color:#ffffff;border-color:#ffffff;font-size:16px;text-align:left;vertical-align:top}
 </style>
 
 <br>
