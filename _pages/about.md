@@ -20,7 +20,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 
 My group has two fully-funded PhD positions starting in Spring/Fall 2024. Selected candidates will be working with me on the following topics:
 - intelligent electromagnetic sensing and non-destructive testing technologies
-- advanced antenna systems for communication and sensing<br>
+- advanced antenna systems for communication and sensing <br>
 More information can be found <a href="https://Haihan-Sun.github.io/files/PhD_Positions.pdf" style="color:#C5050C">HERE</a>.
 
 
