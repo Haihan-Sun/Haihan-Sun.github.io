@@ -23,7 +23,8 @@ My group has two fully-funded PhD positions starting in Spring/Fall 2024. Select
 - advanced antenna systems for communication and sensing 
 
 More information can be found <a href="https://Haihan-Sun.github.io/files/PhD_Positions.pdf" style="color:#C5050C">HERE</a>.
-[Due to the high volume of email inquiries, I may not be able to respond to all of them. However, please be assured that all emails will be read.]
+\[Due to the high volume of email inquiries, I may not be able to respond to all of them. However, please be assured that all emails will be read.]
+
 
 
 <span style="color:#C5050C">News</span>
