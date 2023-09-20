@@ -106,31 +106,27 @@ My group has two fully-funded PhD positions starting in Spring/Fall 2024. More i
 <tbody>
   <tr>
     <td class="tg-ko0z">IEEE Transactions on Antennas and Propagation </td>
-    
   </tr>
   <tr>
-    <td class="tg-ko0z">IEEE Transactions on Geoscience and Remote Sensing</td>
-    
+    <td class="tg-ko0z">IEEE Transactions on Geoscience and Remote Sensing</td>  
   </tr>
   <tr>
     <td class="tg-ko0z">IEEE Transactions on Vehicular Technology</td>
-    
   </tr>
   <tr>
     <td class="tg-ko0z">IEEE Antennas and Wireless Propagation Letters</td>
-   
+  </tr>
+  <tr>
+    <td class="tg-ko0z">IEEE Open Journal of Antennas and Propagation</td>
   </tr>
     <tr>
     <td class="tg-ko0z">IEEE Access</td>
-    
   </tr>
   <tr>
-    <td class="tg-ko0z">Remote Sensing</td>
-    
+    <td class="tg-ko0z">Remote Sensing</td> 
   </tr>
   <tr>
-    <td class="tg-ko0z">Sensors</td>
-   
+    <td class="tg-ko0z">Sensors</td>  
   </tr>
 </tbody>
 </table>
