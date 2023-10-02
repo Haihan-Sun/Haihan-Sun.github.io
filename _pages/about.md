@@ -77,6 +77,19 @@ My group has two fully-funded PhD positions starting in Spring/Fall 2024. More i
 
 <span style="color:#C5050C">Service</span>
 ------
+
+<p><b>Associate Editor</b> <br>
+<table class="tg">
+  <tbody>
+  <tr>
+    <td class="tg-ko0z">2023</td>
+    <td class="tg-ko0z">IEEE Open Journal of Antennas and Propagation</td>
+  </tr>
+</tbody>
+</table>
+
+
+  
 <p><b>Conference Session Chair</b> <br>
 
 <table class="tg">
@@ -99,9 +112,9 @@ My group has two fully-funded PhD positions starting in Spring/Fall 2024. More i
   </tr>
 </tbody>
 </table>
-               
-<p><b>Reviewer</b> <br>
 
+  
+<p><b>Reviewer</b> <br>
 <table class="tg">
 <tbody>
   <tr>
