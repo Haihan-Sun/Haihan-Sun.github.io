@@ -82,7 +82,7 @@ My group has two fully-funded PhD positions starting in Spring/Fall 2024. More i
 <table class="tg">
   <tbody>
   <tr>
-    <td class="tg-ko0z">2023</td>
+    <td class="tg-ko0z">2023-2025</td>
     <td class="tg-ko0z">IEEE Open Journal of Antennas and Propagation</td>
   </tr>
 </tbody>
