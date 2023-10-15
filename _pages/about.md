@@ -28,6 +28,10 @@ My group has two fully-funded PhD positions starting in Spring/Fall 2024. More i
 <table class="tg">
 <tbody>
   <tr>
+    <td class="tg-ko0z">2023/09</td>
+    <td class="tg-ko0z">I have been appointed as an Associate Editor for the IEEE Open Journal of Antennas and Propagation. </td>
+  </tr>
+  <tr>
     <td class="tg-ko0z">2023/08</td>
     <td class="tg-ko0z">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</td>
   </tr>
