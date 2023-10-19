@@ -143,6 +143,9 @@ My group has two fully-funded PhD positions starting in Spring/Fall 2024. More i
     <td class="tg-ko0z">Remote Sensing</td> 
   </tr>
   <tr>
+    <td class="tg-ko0z">NDT and E International</td>  
+  </tr>
+  <tr>
     <td class="tg-ko0z">Sensors</td>  
   </tr>
 </tbody>
