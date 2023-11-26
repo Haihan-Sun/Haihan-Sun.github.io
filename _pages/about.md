@@ -28,6 +28,10 @@ My group has several PhD positions starting in Fall 2024. More information can b
 <table class="tg">
 <tbody>
   <tr>
+    <td class="tg-ko0z">2023/11</td>
+    <td class="tg-ko0z">I have been selected as one of the 2024 IEEE Antennas and Propagation Society Young Professional Ambassadors. </td>
+  </tr>
+  <tr>
     <td class="tg-ko0z">2023/09</td>
     <td class="tg-ko0z">I have been appointed as an Associate Editor for the IEEE Open Journal of Antennas and Propagation. </td>
   </tr>
