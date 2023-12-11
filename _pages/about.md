@@ -29,7 +29,7 @@ My group has several PhD positions starting in Fall 2024. More information can b
 <tbody>
   <tr>
     <td class="tg-ko0z">2023/11</td>
-    <td class="tg-ko0z">I have been selected as one of the 2024 IEEE Antennas and Propagation Society Young Professional Ambassadors. <a href="https://ieeeaps.org/committees/2024ypa"  style="color:#4169e1"> link </a> </td>
+    <td class="tg-ko0z">I have been selected as one of the 2024 IEEE Antennas and Propagation Society Young Professional Ambassadors. <a href="https://ieeeaps.org/committees/2024ypa"  style="color:#4169e1"> [link] </a> </td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/09</td>
