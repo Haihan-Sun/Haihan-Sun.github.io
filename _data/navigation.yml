@@ -13,8 +13,9 @@ main:
   - title: "Honors & Awards"
     url: /awards/  
     
- # - title: "Teaching"
- #   url: /teaching/    
+  - title: "Teaching"
+    url: /teaching/      
+ 
     
  # - title: "Portfolio"
  #   url: /portfolio/
