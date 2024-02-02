@@ -8,7 +8,7 @@ main:
     url: "/BSA/" 
 
   - title: "Group"
-    url: "/group/"    
+    url: /group/   
     
   - title: "Talks"
     url: /talks/    
