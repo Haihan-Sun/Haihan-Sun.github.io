@@ -132,6 +132,9 @@ My group has several PhD positions starting in Fall 2024. More information can b
     <td class="tg-ko0z">IEEE Transactions on Geoscience and Remote Sensing</td>  
   </tr>
   <tr>
+    <td class="tg-ko0z">IEEE Transactions on Instrumentation and Measurement</td>
+  </tr>
+  <tr>
     <td class="tg-ko0z">IEEE Transactions on Vehicular Technology</td>
   </tr>
   <tr>
