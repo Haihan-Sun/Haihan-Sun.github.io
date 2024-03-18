@@ -27,6 +27,14 @@ My group has several PhD positions starting in Fall 2024. More information can b
 ------
 <table class="tg">
 <tbody>
+   <tr>
+    <td class="tg-ko0z">2024/03</td>
+    <td class="tg-ko0z"> Our journal paper “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method” is accepted by IEEE Transactions on Instrumentation & Measurement. </td>
+  </tr>
+    <tr>
+    <td class="tg-ko0z">2024/02</td>
+    <td class="tg-ko0z"> I have contributed a paper entitled "Advancing Women in Engineering: What Early-Career Researchers Have to Say" to the Women in Engineering (WiE) column in IEEE Antennas and Propagation Magazine. </td>
+  </tr>
   <tr>
     <td class="tg-ko0z">2023/11</td>
     <td class="tg-ko0z">I have been selected as one of the 2024 IEEE Antennas and Propagation Society Young Professional Ambassadors. <a href="https://ieeeaps.org/committees/2024ypa"  style="color:#4169e1"> [link] </a> </td>
