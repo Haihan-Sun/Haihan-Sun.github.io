@@ -29,7 +29,7 @@ My group has several PhD positions starting in Fall 2024. More information can b
 <tbody>
    <tr>
     <td class="tg-ko0z">2024/03</td>
-    <td class="tg-ko0z"> Our journal paper “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method” is accepted by IEEE Transactions on Instrumentation & Measurement. </td>
+    <td class="tg-ko0z"> Our journal paper “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method” is accepted by IEEE Transactions on Instrumentation and Measurement. </td>
   </tr>
     <tr>
     <td class="tg-ko0z">2024/02</td>
