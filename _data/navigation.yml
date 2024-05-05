@@ -6,9 +6,15 @@ main:
     
   - title: "Research on BSA"
     url: "/BSA/" 
-
+    
+  - title: "Teaching"
+    url: /teaching/ 
+    
   - title: "Group"
     url: /group/   
+
+  - title: "Service"
+    url: /service/  
     
   - title: "Talks"
     url: /talks/    
@@ -16,8 +22,7 @@ main:
   - title: "Honors & Awards"
     url: /awards/  
     
-  - title: "Teaching"
-    url: /teaching/      
+  
  
     
  # - title: "Portfolio"
