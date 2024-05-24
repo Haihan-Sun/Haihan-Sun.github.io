@@ -16,7 +16,7 @@ redirect_from:
 </style>
 
 <br>
-Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madison. My research interests lie in applied electromagnetics, with a particular emphasis on two main areas: <a href="https://haihan-sun.github.io/GPR/"  style="color:#4169e1"> intelligent electromagnetic sensing and non-destructive testing technologies </a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#4169e1"> antenna systems for wireless communications </a>. <br>
+Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madison. My research interests lie in applied electromagnetics, with a particular emphasis on two main areas: <a href="https://haihan-sun.github.io/GPR/"  style="color:#4169e1"> intelligent microwave sensing and non-destructive testing technologies </a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#4169e1"> antenna systems for wireless communications </a>. <br>
 
 
 
