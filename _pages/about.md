@@ -27,6 +27,18 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 ------
 <table class="tg">
 <tbody>
+   <tr>
+    <td class="tg-ko0z">2024/07</td>
+    <td class="tg-ko0z"> Our journal paper “MAPD-Net: A GPR-Based Method for Estimating Rebar Parameters and Concrete Moisture Content” is accepted by IEEE Geoscience and Remote Sensing Letters.  </td>
+  </tr>
+     <tr>
+    <td class="tg-ko0z">2024/07</td>
+    <td class="tg-ko0z"> We presented our work on “MPA-Net: A Deep Learning Model for Estimating Rebar Parameters Based on GPR Data” and "Characteristic-Mode-Guided Suppression of Cross-Band Scattering and Coupling in Antenna Array" at the 2024 IEEE AP-S/URSI conference. </td>
+  </tr>
+       <tr>
+    <td class="tg-ko0z">2024/07</td>
+    <td class="tg-ko0z"> I presented our work on “Monitoring Early-Stage Corrosion Damage Using a MIMO GPR Array" at the 2024 IEEE International Geoscience and Remote Sensing Symposium. </td>
+  </tr>
      <tr>
     <td class="tg-ko0z">2024/04</td>
     <td class="tg-ko0z"> I have been appointed as an Associate Editor for the IEEE Antennas and Wireless Propagation Letters.  </td>
