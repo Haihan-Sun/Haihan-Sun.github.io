@@ -27,7 +27,12 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 ------
 <table class="tg">
 <tbody>
-     <tr>
+  <tr>
+    <td class="tg-ko0z">2024/08</td>
+    <td class="tg-ko0z"> Welcome Taorui, Yuki, and Zifan to our team!  </td>
+  </tr>   
+  
+  <tr>
     <td class="tg-ko0z">2024/07</td>
     <td class="tg-ko0z"> Our undergraduate research assistant Chi Wang has been awarded the 2024 IEEE Antennas and Propagation Society (AP-S) Undergraduate Summer Research Scholarship. Congratulations Chi!  </td>
   </tr>
