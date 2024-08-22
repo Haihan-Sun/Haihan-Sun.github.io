@@ -16,8 +16,8 @@ main:
   - title: "Service"
     url: /service/  
     
-  - title: "Talk"
-    url: /talks/    
+  # - title: "Talk"
+  #   url: /talks/    
 
   - title: "Honors & Awards"
     url: /awards/  
