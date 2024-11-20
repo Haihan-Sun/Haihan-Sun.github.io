@@ -27,6 +27,10 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 ------
 <table class="tg">
 <tbody>
+    <tr>
+    <td class="tg-ko0z">2024/11</td>
+    <td class="tg-ko0z"> Our journal paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” is accepted by IEEE Transactions on Antennas and Propagation. </td>
+  </tr> 
   <tr>
     <td class="tg-ko0z">2024/10</td>
     <td class="tg-ko0z"> Our journal paper “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans” is accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.  </td>
