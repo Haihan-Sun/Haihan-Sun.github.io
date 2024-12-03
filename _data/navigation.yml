@@ -1,10 +1,10 @@
 # main links links
 main:
   
-  - title: "Research on GPR"
+  - title: "GPR"
     url: "/GPR/"
     
-  - title: "Research on BSA"
+  - title: "Antennas"
     url: "/BSA/" 
     
   - title: "Teaching"
