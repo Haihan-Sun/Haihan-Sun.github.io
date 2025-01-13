@@ -29,7 +29,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <tbody>
 <tr>
     <td class="tg-ko0z">2025/01</td>
-    <td class="tg-ko0z"> Our Ph.D. student Yuki Gao has been selected to receive an IEEE Antennas and Propagation Society Doctoral Research Grant. Congratulations Yuki!  </td>
+    <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has been selected to receive an <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations Yuki!  </td>
   </tr> 
   <tr>
     <td class="tg-ko0z">2024/11</td>
@@ -47,7 +47,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
   <tr>
     <td class="tg-ko0z">2024/07</td>
-    <td class="tg-ko0z"> Our undergraduate research assistant Chi Wang has been awarded the 2024 IEEE Antennas and Propagation Society (AP-S) Undergraduate Summer Research Scholarship. Congratulations Chi!  </td>
+    <td class="tg-ko0z"> Our undergraduate research assistant <b>Chi Wang</b> has been awarded the <b>2024 IEEE Antennas and Propagation Society (AP-S) Undergraduate Summer Research Scholarship</b>. Congratulations Chi!  </td>
   </tr>
   
    <tr>
@@ -76,7 +76,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   </tr>
   <tr>
     <td class="tg-ko0z">2023/11</td>
-    <td class="tg-ko0z">I have been selected as one of the 2024 IEEE Antennas and Propagation Society Young Professional Ambassadors. <a href="https://ieeeaps.org/committees/2024ypa"  style="color:#4169e1"> [link] </a> </td>
+    <td class="tg-ko0z">I have been selected as one of the <b>2024 IEEE Antennas and Propagation Society Young Professional Ambassadors</b>. <a href="https://ieeeaps.org/committees/2024ypa"  style="color:#4169e1"> [link] </a> </td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/09</td>
@@ -112,7 +112,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   </tr>
   <tr>
     <td class="tg-ko0z">2022/11</td>
-    <td class="tg-ko0z">Our conference paper “Clutter Removal in Ground-Penetrating Radar Images Using Deep Neural Networks” received Young Professional Paper Honorable Mention at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.</td>
+    <td class="tg-ko0z">Our conference paper “Clutter Removal in Ground-Penetrating Radar Images Using Deep Neural Networks” received <b>Young Professional Paper Honorable Mention</b> at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2022/07</td>
