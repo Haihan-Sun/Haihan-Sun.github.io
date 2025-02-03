@@ -104,7 +104,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   </tr>
   <tr>
     <td class="tg-ko0z">2023/05</td>
-    <td class="tg-ko0z">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” has been accepted for publication in IEEE <i>Transactions on Geoscience and Remote Sensing</i>.</td>
+    <td class="tg-ko0z">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” has been accepted for publication in <i>IEEE Transactions on Geoscience and Remote Sensing</i>.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/01</td>
