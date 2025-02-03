@@ -28,16 +28,20 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <table class="tg">
 <tbody>
 <tr>
+    <td class="tg-ko0z">2025/02</td>
+    <td class="tg-ko0z"> Haihan has been elevated to the grade of IEEE Senior Member. </td>
+</tr> 
+<tr>
     <td class="tg-ko0z">2025/01</td>
-    <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> receives the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations Yuki!  </td>
+    <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has received the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations Yuki!  </td>
   </tr> 
   <tr>
     <td class="tg-ko0z">2024/11</td>
-    <td class="tg-ko0z"> Our journal paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” is accepted by IEEE Transactions on Antennas and Propagation. </td>
+    <td class="tg-ko0z"> Our journal paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. </td>
   </tr> 
   <tr>
     <td class="tg-ko0z">2024/10</td>
-    <td class="tg-ko0z"> Our journal paper “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans” is accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing.  </td>
+    <td class="tg-ko0z"> Our journal paper “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans” has been accepted for publication in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>.  </td>
   </tr> 
   
   <tr>
@@ -52,7 +56,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
    <tr>
     <td class="tg-ko0z">2024/07</td>
-    <td class="tg-ko0z"> Our journal paper “MAPD-Net: A GPR-Based Method for Estimating Rebar Parameters and Concrete Moisture Content” is accepted by IEEE Geoscience and Remote Sensing Letters.  </td>
+    <td class="tg-ko0z"> Our journal paper “MAPD-Net: A GPR-Based Method for Estimating Rebar Parameters and Concrete Moisture Content” has been accepted for publication in <i>IEEE Geoscience and Remote Sensing Letters</i>.  </td>
   </tr>
      <tr>
     <td class="tg-ko0z">2024/07</td>
@@ -60,55 +64,55 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   </tr>
        <tr>
     <td class="tg-ko0z">2024/07</td>
-    <td class="tg-ko0z"> I presented our work on “Monitoring Early-Stage Corrosion Damage Using a MIMO GPR Array" at the 2024 IEEE International Geoscience and Remote Sensing Symposium. </td>
+    <td class="tg-ko0z"> We presented our work on “Monitoring Early-Stage Corrosion Damage Using a MIMO GPR Array" at the 2024 IEEE International Geoscience and Remote Sensing Symposium. </td>
   </tr>
      <tr>
     <td class="tg-ko0z">2024/04</td>
-    <td class="tg-ko0z"> I have been appointed as an Associate Editor for the IEEE Antennas and Wireless Propagation Letters.  </td>
+    <td class="tg-ko0z"> Haihan has been appointed as an Associate Editor for <i>IEEE Antennas and Wireless Propagation Letters</i>.  </td>
   </tr>
    <tr>
     <td class="tg-ko0z">2024/03</td>
-    <td class="tg-ko0z"> Our journal paper “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method” is accepted by IEEE Transactions on Instrumentation and Measurement. </td>
+    <td class="tg-ko0z"> Our journal paper “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
   </tr>
     <tr>
     <td class="tg-ko0z">2024/02</td>
-    <td class="tg-ko0z"> I have contributed a paper entitled "Advancing Women in Engineering: What Early-Career Researchers Have to Say" to the Women in Engineering (WiE) column in IEEE Antennas and Propagation Magazine. </td>
+    <td class="tg-ko0z"> Haihan contributed a paper entitled "Advancing Women in Engineering: What Early-Career Researchers Have to Say" to the Women in Engineering (WiE) column in <i>IEEE Antennas and Propagation Magazine</i>. </td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/11</td>
-    <td class="tg-ko0z">I have been selected as one of the <b>2024 IEEE Antennas and Propagation Society Young Professional Ambassadors</b>. <a href="https://ieeeaps.org/committees/2024ypa"  style="color:#4169e1"> [link] </a> </td>
+    <td class="tg-ko0z">Haihan has been selected as one of the <b>2024 IEEE Antennas and Propagation Society Young Professional Ambassadors</b>. <a href="https://ieeeaps.org/committees/2024ypa"  style="color:#4169e1"> [link] </a> </td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/09</td>
-    <td class="tg-ko0z">I have been appointed as an Associate Editor for the IEEE Open Journal of Antennas and Propagation. </td>
+    <td class="tg-ko0z">Haihan has been appointed as an Associate Editor for <i>IEEE Open Journal of Antennas and Propagation</i>. </td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/08</td>
-    <td class="tg-ko0z">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” is accepted by Cement and Concrete Composites.</td>
+    <td class="tg-ko0z">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” has been accepted for publication in <i>Cement and Concrete Composites</i>.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/08</td>
-    <td class="tg-ko0z">I joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</td>
+    <td class="tg-ko0z">Haihan joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/07</td>
-    <td class="tg-ko0z">I had the honor of chairing the session “Localization and Estimation Techniques in Sensing and Communications” at the 2023 IEEE AP-S/URSI conference. At the same conference, I delivered an invited talk “Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective”, and also presented my research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete”.</td>
+    <td class="tg-ko0z">Haihan chaired the session “Localization and Estimation Techniques in Sensing and Communications” at the 2023 IEEE AP-S/URSI conference.She also delivered an invited talk “Advancing Diversity, Equity, and Inclusion in the IEEE Antenna and Propagation Society: An Early-Career Researcher’s Perspective”, and presented her research on “Ground Penetrating Radar Techniques for Estimating the Diameter of Reinforcing Bars in Concrete”.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/07</td>
-    <td class="tg-ko0z">I presented my research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars” at the 12th International Workshop on Advanced Ground Penetrating Radar.</td>
+    <td class="tg-ko0z">Haihan presented her research on “Dual-Polarized Ground-Penetrating Radar Method for Sizing Reinforcing Bars” at the 12th International Workshop on Advanced Ground Penetrating Radar.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/05</td>
-    <td class="tg-ko0z">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” is accepted by IEEE Transactions on Geoscience and Remote Sensing.</td>
+    <td class="tg-ko0z">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” has been accepted for publication in IEEE <i>Transactions on Geoscience and Remote Sensing</i>.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2023/01</td>
-    <td class="tg-ko0z">Our journal paper “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar” is accepted by IEEE Transactions on Instrumentation and Measurement.</td>
+    <td class="tg-ko0z">Our journal paper “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2022/11</td>
-    <td class="tg-ko0z">Our journal paper “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array” is accepted by Construction and Building Materials.</td>
+    <td class="tg-ko0z">Our journal paper “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array” has been accepted for publication in <i>Construction and Building Materials</i>.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2022/11</td>
@@ -116,15 +120,15 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   </tr>
   <tr>
     <td class="tg-ko0z">2022/07</td>
-    <td class="tg-ko0z">Our journal paper “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects” is accepted by IEEE Geoscience and Remote Sensing Letters.</td>
+    <td class="tg-ko0z">Our journal paper “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects” has been accepted for publication in <i>IEEE Geoscience and Remote Sensing Letters</i>.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2022/05</td>
-    <td class="tg-ko0z">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” is accepted by IEEE Transactions on Antennas and Propagation.</td>
+    <td class="tg-ko0z">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>.</td>
   </tr>
   <tr>
     <td class="tg-ko0z">2022/05</td>
-    <td class="tg-ko0z">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” is accepted by IEEE Transactions on Geoscience and Remote Sensing.</td>
+    <td class="tg-ko0z">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” has been accepted for publication in <i>IEEE Transactions on Geoscience and Remote Sensing</i>.</td>
   </tr>
 </tbody>
 </table>
