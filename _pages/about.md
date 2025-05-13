@@ -28,16 +28,20 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <table class="tg">
 <tbody>
 <tr>
+    <td class="tg-ko0z">2025/05</td>
+    <td class="tg-ko0z"> Our journal paper “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies” has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa! </td>
+  </tr> 
+<tr>
     <td class="tg-ko0z">2025/02</td>
     <td class="tg-ko0z"> Haihan has been elevated to the grade of IEEE Senior Member. </td>
 </tr> 
 <tr>
     <td class="tg-ko0z">2025/01</td>
-    <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has received the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations Yuki!  </td>
+    <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has received the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations, Yuki!  </td>
   </tr> 
   <tr>
     <td class="tg-ko0z">2024/11</td>
-    <td class="tg-ko0z"> Our journal paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. </td>
+    <td class="tg-ko0z"> Our journal paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen! </td>
   </tr> 
   <tr>
     <td class="tg-ko0z">2024/10</td>
