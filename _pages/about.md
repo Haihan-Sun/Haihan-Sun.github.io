@@ -42,7 +42,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 
 <tr>
     <td class="tg-ko0z">2024/12</td>
-    <td class="tg-ko0z"> Our group received a grant from the Wisconsin Alumni Research Foundation (WARF) Fall Research Competition. </td>
+    <td class="tg-ko0z"> Our group received a grant from the Wisconsin Alumni Research Foundation (WARF) Fall Research Competition. Thank you, WARF! </td>
   </tr> 
   
   <tr>
