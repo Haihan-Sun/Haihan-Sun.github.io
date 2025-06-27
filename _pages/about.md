@@ -28,6 +28,11 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <table class="tg">
 <tbody>
 <tr>
+<td class="tg-ko0z">2025/06</td>
+    <td class="tg-ko0z"> Haihan has been recognized as an <b>Outstanding Associate Editor</b> by IEEE Antennas and Wireless Propagation Letters (AWPL). </td>
+     </tr> 
+<tr> 
+
     <td class="tg-ko0z">2025/05</td>
     <td class="tg-ko0z"> Our journal paper “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies” has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa! </td>
   </tr> 
