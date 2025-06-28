@@ -29,7 +29,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <tbody>
 <tr>
 <td class="tg-ko0z">2025/06</td>
-    <td class="tg-ko0z"> Haihan has been recognized as an <b>Outstanding Associate Editor</b> by IEEE Antennas and Wireless Propagation Letters (AWPL). </td>
+    <td class="tg-ko0z"> Haihan has been recognized as an <b>Outstanding Associate Editor</b> by IEEE Antennas and Wireless Propagation Letters. </td>
      </tr> 
 <tr> 
 
