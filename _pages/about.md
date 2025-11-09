@@ -29,6 +29,11 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <tbody>
 
 <tr>
+    <td class="tg-ko0z">2025/10</td>
+    <td class="tg-ko0z">Haihan has been appointed as an Associate Editor for <i>IEEE Transactions on Geoscience and Remote Sensing</i>. </td>
+</tr>
+  
+<tr>
 <td class="tg-ko0z">2025/07</td>
 <td class="tg-ko0z"> Haihan has been recognized as an Outstanding Associate Editor by IEEE Open Journal of Antennas and Propagation. </td>
 </tr> 
@@ -51,8 +56,6 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
     <td class="tg-ko0z">2025/01</td>
     <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has received the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations, Yuki!  </td>
   </tr> 
-
-
   
   <tr>
     <td class="tg-ko0z">2024/11</td>
@@ -75,17 +78,17 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
     <td class="tg-ko0z"> Our journal paper “MAPD-Net: A GPR-Based Method for Estimating Rebar Parameters and Concrete Moisture Content” has been accepted for publication in <i>IEEE Geoscience and Remote Sensing Letters</i>.  </td>
   </tr>
   
-     <tr>
+  <tr>
     <td class="tg-ko0z">2024/07</td>
     <td class="tg-ko0z"> We presented our work on “MPA-Net: A Deep Learning Model for Estimating Rebar Parameters Based on GPR Data” and "Characteristic-Mode-Guided Suppression of Cross-Band Scattering and Coupling in Antenna Array" at the 2024 IEEE AP-S/URSI conference. </td>
   </tr>
   
-       <tr>
+  <tr>
     <td class="tg-ko0z">2024/07</td>
     <td class="tg-ko0z"> We presented our work on “Monitoring Early-Stage Corrosion Damage Using a MIMO GPR Array" at the 2024 IEEE International Geoscience and Remote Sensing Symposium. </td>
   </tr>
   
-     <tr>
+ <tr>
     <td class="tg-ko0z">2024/04</td>
     <td class="tg-ko0z"> Haihan has been appointed as an Associate Editor for <i>IEEE Antennas and Wireless Propagation Letters</i>.  </td>
   </tr>
@@ -95,7 +98,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
     <td class="tg-ko0z"> Our journal paper “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
   </tr>
   
-    <tr>
+<tr>
     <td class="tg-ko0z">2024/02</td>
     <td class="tg-ko0z"> Haihan contributed a paper entitled "Advancing Women in Engineering: What Early-Career Researchers Have to Say" to the Women in Engineering (WiE) column in <i>IEEE Antennas and Propagation Magazine</i>. </td>
   </tr>
