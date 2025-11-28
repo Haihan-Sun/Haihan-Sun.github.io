@@ -41,11 +41,11 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
 <tr>
 <td class="tg-ko0z">2025/07</td>
-<td class="tg-ko0z"> Haihan has been recognized as an Outstanding Associate Editor by IEEE Open Journal of Antennas and Propagation. </td>
+<td class="tg-ko0z"> Haihan has been recognized as an Outstanding Associate Editor by <i>IEEE Open Journal of Antennas and Propagation</i>. </td>
 </tr> 
 <tr>
 <td class="tg-ko0z">2025/06</td>
-<td class="tg-ko0z"> Haihan has been recognized as an Outstanding Associate Editor by IEEE Antennas and Wireless Propagation Letters. </td>
+<td class="tg-ko0z"> Haihan has been recognized as an Outstanding Associate Editor by <i>IEEE Antennas and Wireless Propagation Letters</i>. </td>
 </tr> 
 
 <tr> 
