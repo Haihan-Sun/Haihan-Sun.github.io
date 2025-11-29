@@ -126,7 +126,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
   <tr>
     <td class="tg-ko0z">2023/08</td>
-    <td class="tg-ko0z">Haihan joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)</td>
+    <td class="tg-ko0z"><b>Haihan joined the Department of Electrical and Computer Engineering, University of Wisconsin-Madison as an Assistant Professor =)  </b> </td>
   </tr>
   
   <tr>
