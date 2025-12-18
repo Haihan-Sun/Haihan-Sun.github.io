@@ -30,7 +30,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 
 <tr>
     <td class="tg-ko0z">2025/12</td>
-    <td class="tg-ko0z">Our journal paper “A Tri-Band Shared-Aperture Base Station Antenna Array Covering 5G Mid-Band and 6G Centimetric Wave Band” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. 
+    <td class="tg-ko0z">Our journal paper “A Tri-Band Shared-Aperture Base Station Antenna Array Covering 5G Mid-Band and 6G Centimetric Wave Band” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. </td>
 </tr>
 
 
@@ -178,6 +178,8 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
     <td class="tg-ko0z">2022/05</td>
     <td class="tg-ko0z">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” has been accepted for publication in <i>IEEE Transactions on Geoscience and Remote Sensing</i>.</td>
   </tr>
+
+  
 </tbody>
 </table>
 
