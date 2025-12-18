@@ -28,10 +28,15 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <table class="tg">
 <tbody>
 
+<tr>
+    <td class="tg-ko0z">2025/11</td>
+    <td class="tg-ko0z">Haihan and collaborators’ paper “A Tri-Band Shared-Aperture Base Station Antenna Array Covering 5G Mid-Band and 6G Centimetric Wave Band” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. 
+</tr>
+
 
 <tr>
     <td class="tg-ko0z">2025/11</td>
-    <td class="tg-ko0z">Our journal paper “Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. Congratulations, Taorui and Yuki! </td>
+    <td class="tg-ko0z">Taorui and Yuki's paper “Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. Congratulations, Taorui and Yuki! </td>
 </tr>
 
 <tr>
@@ -50,7 +55,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 
 <tr> 
     <td class="tg-ko0z">2025/05</td>
-    <td class="tg-ko0z"> Our journal paper “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies” has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa! </td>
+    <td class="tg-ko0z"> Tessa's paper “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies” has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa! </td>
   </tr> 
   
 <tr>
@@ -65,7 +70,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
   <tr>
     <td class="tg-ko0z">2024/11</td>
-    <td class="tg-ko0z"> Our journal paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen! </td>
+    <td class="tg-ko0z"> Yuchen's paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen! </td>
   </tr> 
   
   <tr>
