@@ -78,7 +78,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
     <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has received the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations, Yuki!  </td>
   </tr> 
 
-    <tr>
+<tr>
     <td class="tg-ko0z">2024/12</td>
     <td class="tg-ko0z"> Our group received the grant from <b> Wisconsin Alumni Research Foundation (WARF) Fall Research Competition</b>! </td>
   </tr> 
