@@ -30,7 +30,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 
 <tr>
     <td class="tg-ko0z">2026/03</td>
-    <td class="tg-ko0z">Haihan received the <b> National Science Foundation Faculty Early Career Development Program (CAREER) Award </b>! </td>
+    <td class="tg-ko0z">Haihan received the <b> National Science Foundation Faculty Early Career Development Program (CAREER) Award</b>! </td>
 </tr>
   
 <tr>
