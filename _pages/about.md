@@ -35,7 +35,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
 <tr>
     <td class="tg-ko0z">2026/03</td>
-    <td class="tg-ko0z">We received the <b> Draper Technology Innovation Fund (TIF) </b> from Discovery to Product (D2P) and the Wisconsin Alumni Research Foundation (WARF) to enhance the licensability of our patented SoilRadar technology. </td>
+    <td class="tg-ko0z">We received the <b> Draper Technology Innovation Fund (TIF) </b> from Discovery to Product (D2P) and the Wisconsin Alumni Research Foundation (WARF) to enhance the licensability of our patented SoilRadar technology! </td>
 </tr>
 
 <tr>
