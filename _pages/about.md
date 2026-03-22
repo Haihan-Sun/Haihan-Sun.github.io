@@ -30,7 +30,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 
 <tr>
     <td class="tg-ko0z">2026/03</td>
-    <td class="tg-ko0z">Haihan received the <b> NSF CAREER Award</b>! </td>
+    <td class="tg-ko0z">Haihan received the <b>NSF CAREER Award</b>! </td>
 </tr>
   
 <tr>
@@ -56,11 +56,11 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
 <tr>
 <td class="tg-ko0z">2025/07</td>
-<td class="tg-ko0z"> Haihan has been recognized as an Outstanding Associate Editor by <i>IEEE Open Journal of Antennas and Propagation</i>. </td>
+<td class="tg-ko0z"> Haihan has been recognized as an <b>Outstanding Associate Editor</b> by <i>IEEE Open Journal of Antennas and Propagation</i>. </td>
 </tr> 
 <tr>
 <td class="tg-ko0z">2025/06</td>
-<td class="tg-ko0z"> Haihan has been recognized as an Outstanding Associate Editor by <i>IEEE Antennas and Wireless Propagation Letters</i>. </td>
+<td class="tg-ko0z"> Haihan has been recognized as an <b>Outstanding Associate Editor</b> by <i>IEEE Antennas and Wireless Propagation Letters</i>. </td>
 </tr> 
 
 <tr> 
@@ -70,7 +70,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
   
 <tr>
     <td class="tg-ko0z">2025/02</td>
-    <td class="tg-ko0z"> Haihan has been elevated to the grade of IEEE Senior Member. </td>
+    <td class="tg-ko0z"> Haihan has been elevated to the grade of <b>IEEE Senior Member</b>. </td>
 </tr> 
 
 <tr>
