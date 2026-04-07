@@ -28,6 +28,13 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <table class="tg">
 <tbody>
 
+
+<tr>
+    <td class="tg-ko0z">2026/04</td>
+    <td class="tg-ko0z">Haihan received the <a href="https://ieeeaps.org/awards/ieee-ap-s-awards-2026"><b>2026 Donald G. Dudley Jr. Undergraduate Teaching Award</b></a> from the IEEE Antennas and Propagation Society!</td>
+
+</tr>
+
 <tr>
     <td class="tg-ko0z">2026/03</td>
     <td class="tg-ko0z">Haihan received the <b>NSF CAREER Award</b>! </td>
