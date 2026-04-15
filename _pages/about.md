@@ -30,7 +30,7 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 
 <tr>
     <td class="tg-ko0z">2026/04</td>
-    <td class="tg-ko0z"> Congratulations to our second-year PhD students, <b>Yuki</b> and <b>Taorui</b>, whose papers both received <b>Honorable Mention</b> in the IEEE AP-S Student Paper Competition! This is a great start to their PhD conference journey, and we look forward to sharing our research this summer at IEEE AP-S! </td>
+    <td class="tg-ko0z"> Congratulations to our second-year PhD students, <b>Yuki</b> and <b>Taorui</b>, whose papers both received <b>Honorable Mention</b> in the IEEE AP-S Student Paper Competition! This is a great start to their PhD conference journey, and we look forward to sharing our research this summer at 2026 IEEE International Symposium on Antennas & Propagation! </td>
 </tr>
 
 <tr>
