@@ -28,6 +28,10 @@ Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madiso
 <table class="tg">
 <tbody>
 
+<tr>
+    <td class="tg-ko0z">2026/04</td>
+    <td class="tg-ko0z"> Congratulations to our second-year PhD students, <b>Yuki</b> and <b>Taorui</b>, whose papers both received <b>Honorable Mention</b> in the IEEE AP-S Student Paper Competition! This is a great start to their PhD conference journey, and we look forward to sharing our research this summer at IEEE AP-S! </td>
+</tr>
 
 <tr>
     <td class="tg-ko0z">2026/04</td>
