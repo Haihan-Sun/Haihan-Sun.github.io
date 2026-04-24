@@ -22,7 +22,7 @@ I am Haihan Sun, an Assistant Professor in the Department of Electrical and Comp
 
 <span style="color:#C5050C">Hiring</span>
 ------
-My group has openings for one postdoctoral researcher position starting in Summer 2026, and multiple Ph.D. positions starting in Spring 2027.
+My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 Postdoc recruitment.pdf" style="color:#4169e1">postdoctoral researcher position</a> starting in Summer 2026, and multiple Ph.D. positions starting in Spring 2027. 
 
 <span style="color:#C5050C">News</span>
 ------
