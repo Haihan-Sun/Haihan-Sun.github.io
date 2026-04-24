@@ -7,60 +7,13 @@ redirect_from:
   - /about.html
 ---
 <style type="text/css">
-
-.tg {
-
-  border: none;
-
-  border-collapse: collapse;
-
-  border-spacing: 0;
-
-  width: 100%;
-
-}
-
-.tg td {
-
-  border-style: solid;
-
-  border-width: 0px;
-
-  font-family: inherit;
-
-  font-size: 1em;
-
-  line-height: 1.6;
-
-  overflow: hidden;
-
-  padding: 8px 5px;
-
-  word-break: normal;
-
-  vertical-align: top;
-
-}
-
-.tg th {
-
-  border-style: solid;
-
-  border-width: 0px;
-
-  font-family: inherit;
-
-  font-size: 1em;
-
-  font-weight: normal;
-
-  overflow: hidden;
-
-  padding: 8px 5px;
-
-  word-break: normal;
-
-}
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:15px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:15px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ko0z{background-color:#ffffff;border-color:#ffffff;font-size:15px;text-align:left;vertical-align:top}
+</style>
 
 .tg .tg-ko0z {
 
