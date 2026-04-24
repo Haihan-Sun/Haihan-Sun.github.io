@@ -16,7 +16,7 @@ redirect_from:
 </style>
 
 <br>
-I am Haihan Sun, an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison. I lead a research group focused on designing <a href="https://haihan-sun.github.io/BSA/"  style="color:#4169e1"> antennas </a>, and developing <a href="https://haihan-sun.github.io/GPR/"  style="color:#4169e1"> intelligent microwave sensing and non-destructive testing technologies </a>. Our current research integrates electromagnetic theory, antenna and microwave hardware, signal processing, and machine learning to enable intelligent sensing systems that characterize, image, and monitor the hidden physical world.
+I am Haihan Sun, an Assistant Professor in the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison. I lead a research group focused on designing <a href="https://haihan-sun.github.io/BSA/"  style="color:#4169e1">antennas</a>, and developing <a href="https://haihan-sun.github.io/GPR/"  style="color:#4169e1">intelligent microwave sensing and non-destructive testing technologies</a>. Our current research integrates electromagnetic theory, antenna and microwave hardware, signal processing, and machine learning to enable intelligent sensing systems that characterize, image, and monitor the hidden physical world.
 
 
 <span style="color:#C5050C">Hiring</span>
