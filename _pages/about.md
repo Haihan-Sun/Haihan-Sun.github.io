@@ -19,7 +19,8 @@ redirect_from:
 Hi! I'm Haihan Sun, an Assistant Professor at the University of Wisconsin-Madison. My research interests lie in applied electromagnetics, with a particular emphasis on two main areas: <a href="https://haihan-sun.github.io/GPR/"  style="color:#4169e1"> intelligent microwave sensing and non-destructive testing technologies </a> and <a href="https://haihan-sun.github.io/BSA/"  style="color:#4169e1"> antenna systems for wireless communications</a>. <br>
 
 
-**<span style="color:#C5050C">Hiring</span>**
+<span style="color:#C5050C">Hiring</span>
+------
 My group has openings for one postdoctoral researcher position starting in Summer 2026, and multiple Ph.D. positions starting in Spring 2027.
 
 <span style="color:#C5050C">News</span>
