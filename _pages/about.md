@@ -36,7 +36,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr>
     <td class="tg-ko0z">2026/04</td>
-    <td class="tg-ko0z">Haihan received the <b>2026 Donald G. Dudley Jr. Undergraduate Teaching Award</b> from the IEEE Antennas and Propagation Society! <a href="https://ieeeaps.org/awards/ieee-ap-s-awards-2026"  style="color:#4169e1"> [link] </a> </td>
+    <td class="tg-ko0z">Haihan received the <b>2026 Donald G. Dudley Jr. Undergraduate Teaching Award</b> from the IEEE Antennas and Propagation Society! <a href="https://ieeeaps.org/awards/ieee-ap-s-awards-2026"  style="color:#4169e1"> [Official announcement] </a> </td>
 
 </tr>
 
@@ -52,13 +52,13 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr>
     <td class="tg-ko0z">2025/12</td>
-    <td class="tg-ko0z">Our journal paper “A Tri-Band Shared-Aperture Base Station Antenna Array Covering 5G Mid-Band and 6G Centimetric Wave Band” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. </td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/BSA13.pdf"  style="color:#4169e1">“A Tri-Band Shared-Aperture Base Station Antenna Array Covering 5G Mid-Band and 6G Centimetric Wave Band”</a> has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. </td>
 </tr>
 
 
 <tr>
     <td class="tg-ko0z">2025/11</td>
-    <td class="tg-ko0z">Our journal paper “Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. Congratulations, Taorui and Yuki! </td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR15.pdf"  style="color:#4169e1">“Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. Congratulations, Taorui and Yuki! </td>
 </tr>
 
 <tr>
@@ -77,7 +77,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr> 
     <td class="tg-ko0z">2025/05</td>
-    <td class="tg-ko0z"> Our journal paper “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies” has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa! </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://ieeexplore.ieee.org/document/11022979"  style="color:#4169e1"> “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies”</a> has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa! </td>
   </tr> 
   
 <tr>
@@ -97,12 +97,12 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
   <tr>
     <td class="tg-ko0z">2024/11</td>
-    <td class="tg-ko0z"> Our journal paper “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen! </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/AntennaMeasurement1.pdf"  style="color:#4169e1"> “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization”</a> has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen! </td>
   </tr> 
   
   <tr>
     <td class="tg-ko0z">2024/10</td>
-    <td class="tg-ko0z"> Our journal paper “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans” has been accepted for publication in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>.  </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/GPR14.pdf"  style="color:#4169e1"> “Learning from Clutter: An Unsupervised Learning-Based Clutter Removal Scheme for GPR B-Scans”</a> has been accepted for publication in <i>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</i>.  </td>
   </tr> 
 
   
@@ -113,7 +113,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
    <tr>
     <td class="tg-ko0z">2024/07</td>
-    <td class="tg-ko0z"> Our journal paper “MAPD-Net: A GPR-Based Method for Estimating Rebar Parameters and Concrete Moisture Content” has been accepted for publication in <i>IEEE Geoscience and Remote Sensing Letters</i>.  </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/GPR13.pdf"  style="color:#4169e1"> “MAPD-Net: A GPR-Based Method for Estimating Rebar Parameters and Concrete Moisture Content”</a> has been accepted for publication in <i>IEEE Geoscience and Remote Sensing Letters</i>.  </td>
   </tr>
   
   <tr>
@@ -133,7 +133,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
    <tr>
     <td class="tg-ko0z">2024/03</td>
-    <td class="tg-ko0z"> Our journal paper “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/GPR12.pdf"  style="color:#4169e1"> “Early Detection of Corrosion Damage in Reinforced Concrete Using GPR Array Imaging Method”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
   </tr>
   
 <tr>
@@ -153,7 +153,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
   <tr>
     <td class="tg-ko0z">2023/08</td>
-    <td class="tg-ko0z">Our journal paper “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method” has been accepted for publication in <i>Cement and Concrete Composites</i>.</td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/NDT1.pdf"  style="color:#4169e1"> “Corrosion Damage Detection in Reinforced Concrete Using Rayleigh Wave-Based Method”</a> has been accepted for publication in <i>Cement and Concrete Composites</i>.</td>
   </tr>
   
   <tr>
@@ -173,17 +173,17 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
   <tr>
     <td class="tg-ko0z">2023/05</td>
-    <td class="tg-ko0z">Our journal paper “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion” has been accepted for publication in <i>IEEE Transactions on Geoscience and Remote Sensing</i>.</td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR11.pdf"  style="color:#4169e1"> “3DInvNet: A Deep Learning-Based 3D Ground-Penetrating Radar Data Inversion”</a> has been accepted for publication in <i>IEEE Transactions on Geoscience and Remote Sensing</i>.</td>
   </tr>
   
   <tr>
     <td class="tg-ko0z">2023/01</td>
-    <td class="tg-ko0z">Our journal paper “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>.</td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR10.pdf"  style="color:#4169e1"> “Diameter Estimation of Cylindrical Metal Bar Using Wideband Dual-Polarized Ground-Penetrating Radar”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>.</td>
   </tr>
   
   <tr>
     <td class="tg-ko0z">2022/11</td>
-    <td class="tg-ko0z">Our journal paper “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array” has been accepted for publication in <i>Construction and Building Materials</i>.</td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR9.pdf"  style="color:#4169e1"> “Estimating the Diameter of Reinforcing Bars Using an Ultra-Wideband MIMO GPR Array”</a> has been accepted for publication in <i>Construction and Building Materials</i>.</td>
   </tr>
   
   <tr>
@@ -193,17 +193,17 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
   <tr>
     <td class="tg-ko0z">2022/07</td>
-    <td class="tg-ko0z">Our journal paper “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects” has been accepted for publication in <i>IEEE Geoscience and Remote Sensing Letters</i>.</td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR8.pdf"  style="color:#4169e1"> “A Deep Learning-Based GPR Forward Solver for Predicting B-Scans of Subsurface Objects”</a> has been accepted for publication in <i>IEEE Geoscience and Remote Sensing Letters</i>.</td>
   </tr>
   
   <tr>
     <td class="tg-ko0z">2022/05</td>
-    <td class="tg-ko0z">Our journal paper “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions” has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>.</td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR6.pdf"  style="color:#4169e1"> “DMRF-UNet: A Two-Stage Deep Learning Scheme for GPR Data Inversion under Heterogeneous Soil Conditions”</a> has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>.</td>
   </tr>
   
   <tr>
     <td class="tg-ko0z">2022/05</td>
-    <td class="tg-ko0z">Our journal paper “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data” has been accepted for publication in <i>IEEE Transactions on Geoscience and Remote Sensing</i>.</td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR7.pdf"  style="color:#4169e1"> “Learning to Remove Clutter in Real-World GPR Images Using Hybrid Data”</a> has been accepted for publication in <i>IEEE Transactions on Geoscience and Remote Sensing</i>.</td>
   </tr>
 
   
