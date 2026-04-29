@@ -36,7 +36,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr>
     <td class="tg-ko0z">2026/04</td>
-    <td class="tg-ko0z">Haihan received the <b>2026 Donald G. Dudley Jr. Undergraduate Teaching Award</b> from the IEEE Antennas and Propagation Society! <a href="https://ieeeaps.org/awards/ieee-ap-s-awards-2026"  style="color:#4169e1"> [Official announcement] </a> </td>
+    <td class="tg-ko0z">Haihan received the <a href="https://ieeeaps.org/awards/ieee-ap-s-awards-2026"  style="color:#4169e1"><b>2026 Donald G. Dudley Jr. Undergraduate Teaching Award</b></a> from the IEEE Antennas and Propagation Society! 
 
 </tr>
 
