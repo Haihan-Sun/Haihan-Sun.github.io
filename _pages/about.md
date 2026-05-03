@@ -31,23 +31,23 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr>
     <td class="tg-ko0z">2026/04</td>
-    <td class="tg-ko0z"> Congratulations to our second-year PhD students, <b>Yuki</b> and <b>Taorui</b>, whose papers both received <b>Honorable Mention</b> in the IEEE AP-S Student Paper Competition! This is a great start to their PhD conference journey, and we look forward to sharing our research this summer at 2026 IEEE International Symposium on Antennas & Propagation! </td>
+    <td class="tg-ko0z"> Congratulations to our second-year PhD students, <b>Yuki</b> and <b>Taorui</b>, whose papers both received <b>Honorable Mention</b> in the IEEE AP-S Student Paper Competition. This is a great start to their PhD conference journey, and we look forward to sharing our research this summer at 2026 IEEE International Symposium on Antennas & Propagation. </td>
 </tr>
 
 <tr>
     <td class="tg-ko0z">2026/04</td>
-    <td class="tg-ko0z">Haihan received the <a href="https://ieeeaps.org/awards/ieee-ap-s-awards-2026"  style="color:#4169e1"><b>2026 Donald G. Dudley Jr. Undergraduate Teaching Award</b></a> from the IEEE Antennas and Propagation Society! </td>
+    <td class="tg-ko0z">Haihan received the <a href="https://ieeeaps.org/awards/ieee-ap-s-awards-2026"  style="color:#4169e1"><b>2026 Donald G. Dudley Jr. Undergraduate Teaching Award</b></a> from the IEEE Antennas and Propagation Society. </td>
 
 </tr>
 
 <tr>
     <td class="tg-ko0z">2026/03</td>
-    <td class="tg-ko0z">Haihan received the <b>NSF CAREER Award</b>! </td>
+    <td class="tg-ko0z">Haihan received the <b>NSF CAREER Award</b>. </td>
 </tr>
   
 <tr>
     <td class="tg-ko0z">2026/03</td>
-    <td class="tg-ko0z">We received the <b> Draper Technology Innovation Fund (TIF) </b> from Discovery to Product (D2P) and the Wisconsin Alumni Research Foundation (WARF)! </td>
+    <td class="tg-ko0z">We received the <b> Draper Technology Innovation Fund (TIF) </b> from Discovery to Product (D2P) and the Wisconsin Alumni Research Foundation (WARF). </td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr>
     <td class="tg-ko0z">2025/11</td>
-    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR15.pdf"  style="color:#4169e1">“Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. Congratulations, Taorui and Yuki! </td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR15.pdf"  style="color:#4169e1">“Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. Congratulations, Taorui and Yuki. </td>
 </tr>
 
 <tr>
@@ -77,7 +77,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr> 
     <td class="tg-ko0z">2025/05</td>
-    <td class="tg-ko0z"> Our journal paper <a href="https://ieeexplore.ieee.org/document/11022979"  style="color:#4169e1"> “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies”</a> has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa! </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://ieeexplore.ieee.org/document/11022979"  style="color:#4169e1"> “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies”</a> has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa. </td>
   </tr> 
   
 <tr>
@@ -87,17 +87,17 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 
 <tr>
     <td class="tg-ko0z">2025/01</td>
-    <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has received the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations, Yuki!  </td>
+    <td class="tg-ko0z"> Our Ph.D. student <b>Yuki Gao</b> has received the prestigious <b>IEEE Antennas and Propagation Society Doctoral Research Grant</b>. Congratulations, Yuki.  </td>
   </tr> 
 
 <tr>
     <td class="tg-ko0z">2024/12</td>
-    <td class="tg-ko0z"> Our group received the grant from <b> Wisconsin Alumni Research Foundation (WARF) Fall Research Competition</b>! </td>
+    <td class="tg-ko0z"> Our group received the grant from <b> Wisconsin Alumni Research Foundation (WARF) Fall Research Competition</b>. </td>
   </tr> 
   
   <tr>
     <td class="tg-ko0z">2024/11</td>
-    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/AntennaMeasurement1.pdf"  style="color:#4169e1"> “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization”</a> has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen! </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/AntennaMeasurement1.pdf"  style="color:#4169e1"> “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization”</a> has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen. </td>
   </tr> 
   
   <tr>
@@ -108,7 +108,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
   <tr>
     <td class="tg-ko0z">2024/07</td>
-    <td class="tg-ko0z"> Our undergraduate research assistant <b>Chi Wang</b> has been awarded the <b>2024 IEEE Antennas and Propagation Society (AP-S) Undergraduate Summer Research Scholarship</b>. Congratulations, Chi!  </td>
+    <td class="tg-ko0z"> Our undergraduate research assistant <b>Chi Wang</b> has been awarded the <b>2024 IEEE Antennas and Propagation Society (AP-S) Undergraduate Summer Research Scholarship</b>. Congratulations, Chi.  </td>
   </tr>
   
    <tr>
@@ -188,7 +188,7 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
   
   <tr>
     <td class="tg-ko0z">2022/11</td>
-    <td class="tg-ko0z">Our conference paper “Clutter Removal in Ground-Penetrating Radar Images Using Deep Neural Networks” received <b>Young Professional Paper Honorable Mention</b> at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.</td>
+    <td class="tg-ko0z">Haihan’s first-authored paper “Clutter Removal in Ground-Penetrating Radar Images Using Deep Neural Networks” received the <b>Young Professional Paper Honorable Mention</b> at 2022 International Symposium on Antennas and Propagation (ISAP) in Sydney, Australia.</td>
   </tr>
   
   <tr>
