@@ -28,6 +28,10 @@ My group has openings for one <a href="https://Haihan-Sun.github.io/files/2026 P
 ------
 <table class="tg">
 <tbody>
+<tr>
+    <td class="tg-ko0z">2026/05</td>
+    <td class="tg-ko0z"> Haihan received the <b>Gerald Holdridge Excellence in Teaching Award</b> from the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison. </td>
+</tr>
 
 <tr>
     <td class="tg-ko0z">2026/04</td>
