@@ -28,6 +28,12 @@ My group has openings for Ph.D. positions starting in Spring/Fall 2027.
 ------
 <table class="tg">
 <tbody>
+
+<tr>
+    <td class="tg-ko0z">2026/06</td>
+    <td class="tg-ko0z"> Congratulations to our undergraduate research assistants <b>Nick Schnobel</b> and <b>Noah Lorman</b> on being selected to participate in the 2026 ECE Summer Program for Advanced Research and Knowledge (SPARK). </td>
+</tr>
+
 <tr>
     <td class="tg-ko0z">2026/05</td>
     <td class="tg-ko0z"> Haihan received the <b>Gerald Holdridge Excellence in Teaching Award</b> from the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison. </td>
