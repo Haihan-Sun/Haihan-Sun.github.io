@@ -31,7 +31,7 @@ My group has openings for Ph.D. positions starting in Spring/Fall 2027.
 
 <tr>
     <td class="tg-ko0z">2026/11</td>
-    <td class="tg-ko0z"> Our journal paper “Ultrawideband Polarization-Rotating Antenna for Enhanced Ground Penetrating Radar Detection”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
+    <td class="tg-ko0z"> Our journal paper “Ultrawideband Polarization-Rotating Antenna for Enhanced Ground Penetrating Radar Detection” has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
 </tr>
 
 <tr>
