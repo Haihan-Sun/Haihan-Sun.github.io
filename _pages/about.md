@@ -30,6 +30,11 @@ My group has openings for Ph.D. positions starting in Spring/Fall 2027.
 <tbody>
 
 <tr>
+    <td class="tg-ko0z">2026/11</td>
+    <td class="tg-ko0z"> Our journal paper “Ultrawideband Polarization-Rotating Antenna for Enhanced Ground Penetrating Radar Detection”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
+</tr>
+
+<tr>
     <td class="tg-ko0z">2026/06</td>
     <td class="tg-ko0z"> Congratulations to our undergraduate research assistants <b>Nick Schnobel</b> and <b>Noah Lorman</b> on being selected to participate in the 2026 ECE Summer Program for Advanced Research and Knowledge (SPARK). </td>
 </tr>
@@ -68,7 +73,7 @@ My group has openings for Ph.D. positions starting in Spring/Fall 2027.
 
 <tr>
     <td class="tg-ko0z">2025/11</td>
-    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR15.pdf"  style="color:#4169e1">“Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. Congratulations, Taorui and Yuki. </td>
+    <td class="tg-ko0z">Our journal paper <a href="https://haihan-sun.github.io/files/GPR15.pdf"  style="color:#4169e1">“Estimation of Specific Gravity of Potato Tubers Using Dielectric Properties”</a> has been accepted for publication in <i>IEEE Transactions on Instrumentation and Measurement</i>. </td>
 </tr>
 
 <tr>
@@ -87,7 +92,7 @@ My group has openings for Ph.D. positions starting in Spring/Fall 2027.
 
 <tr> 
     <td class="tg-ko0z">2025/05</td>
-    <td class="tg-ko0z"> Our journal paper <a href="https://ieeexplore.ieee.org/document/11022979"  style="color:#4169e1"> “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies”</a> has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. Congratulations, Tessa. </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://ieeexplore.ieee.org/document/11022979"  style="color:#4169e1"> “Temperature- and Volume-Fraction-Dependent Debye Model for the Dielectric Properties of Binary Mixtures of Water and Methanol at Microwave Frequencies”</a> has been accepted for publication in <i>IEEE Transactions on Microwave Theory and Techniques</i>. </td>
   </tr> 
   
 <tr>
@@ -107,7 +112,7 @@ My group has openings for Ph.D. positions starting in Spring/Fall 2027.
   
   <tr>
     <td class="tg-ko0z">2024/11</td>
-    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/AntennaMeasurement1.pdf"  style="color:#4169e1"> “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization”</a> has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. Congratulations, Yuchen. </td>
+    <td class="tg-ko0z"> Our journal paper <a href="https://haihan-sun.github.io/files/AntennaMeasurement1.pdf"  style="color:#4169e1"> “A Near-Field Super-Resolution Network for Accelerating Antenna Characterization”</a> has been accepted for publication in <i>IEEE Transactions on Antennas and Propagation</i>. </td>
   </tr> 
   
   <tr>
